@@ -136,3 +136,299 @@ C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\CRM\bin\Debug\net8.0\zh
 C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\CRM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\CRM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\appsettings.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\CRM.staticwebassets.endpoints.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\CRM.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\CRM.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\CRM.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\CRM.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\CRM.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Humanizer.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Npgsql.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.sourcelink.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\scopedcss\bundle\CRM.styles.css
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets\msbuild.CRM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets\msbuild.CRM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets\msbuild.build.CRM.props
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRM.props
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRM.props
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.csproj.Up2Date
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\refint\CRM.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\CRM.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\obj\Debug\net8.0\ref\CRM.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ProjetoCRM\CRM\Diretório versionado\CRM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\appsettings.Development.json
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\CRM.staticwebassets.endpoints.json
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\appsettings.json
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\CRM.exe
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\CRM.deps.json
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\CRM.runtimeconfig.json
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\CRM.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\CRM.pdb
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Humanizer.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Npgsql.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.CodeDom.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\System.Text.Json.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\ProjetoCRM\CRM\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.csproj.AssemblyReference.cache
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.AssemblyInfoInputs.cache
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.AssemblyInfo.cs
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.csproj.CoreCompileInputs.cache
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.sourcelink.json
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\scopedcss\bundle\CRM.styles.css
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.build.json
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.development.json
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.CRM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.CRM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.build.CRM.props
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRM.props
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRM.props
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.csproj.Up2Date
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.dll
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\refint\CRM.dll
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.pdb
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.genruntimeconfig.cache
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\ref\CRM.dll

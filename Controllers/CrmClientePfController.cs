@@ -1,11 +1,13 @@
 using CRM.Models;
 using CRM.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CRM.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class CRMClientePfController : ControllerBase
     {
         private readonly ClientePfService _clienteService;

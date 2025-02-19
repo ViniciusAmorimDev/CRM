@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "CRM.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "CRM.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CRM.Controllers.CRMClientePfController",
     "Method": "GetClientesPf",
     "RelativePath": "api/CRMClientePf",
@@ -106,6 +122,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CRM.Controllers.UsuarioController",
+    "Method": "Perfil",
+    "RelativePath": "api/usuario/perfil",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]
