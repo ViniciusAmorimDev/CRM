@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TcrKH6EbXrU=",
+  "dgSpecHash": "bV6kYXYZ3jM=",
   "success": true,
-  "projectFilePath": "C:\\ProjetoCRM\\CRM\\CRM.csproj",
+  "projectFilePath": "c:\\ProjetoCRM\\CRM\\CRM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",

@@ -425,7 +425,6 @@ C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.build.CRM.props
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRM.props
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRM.props
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.pack.json
-C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.csproj.Up2Date
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.dll
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\refint\CRM.dll

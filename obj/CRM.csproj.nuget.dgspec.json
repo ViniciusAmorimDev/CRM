@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetoCRM\\CRM\\CRM.csproj": {}
+    "c:\\ProjetoCRM\\CRM\\CRM.csproj": {}
   },
   "projects": {
-    "C:\\ProjetoCRM\\CRM\\CRM.csproj": {
+    "c:\\ProjetoCRM\\CRM\\CRM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetoCRM\\CRM\\CRM.csproj",
+        "projectUniqueName": "c:\\ProjetoCRM\\CRM\\CRM.csproj",
         "projectName": "CRM",
-        "projectPath": "C:\\ProjetoCRM\\CRM\\CRM.csproj",
+        "projectPath": "c:\\ProjetoCRM\\CRM\\CRM.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetoCRM\\CRM\\obj\\",
+        "outputPath": "c:\\ProjetoCRM\\CRM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
