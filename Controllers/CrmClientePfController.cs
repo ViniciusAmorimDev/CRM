@@ -38,7 +38,7 @@ namespace CRM.Controllers
                 var cliente = _clienteService.GetClientesId(id);
                 if (cliente == null)
                 {
-                    return NotFound("Usuário não encontrado");
+                    return NotFound("Usuario nao encontrado");
                 }
                 return Ok(cliente);
             }
@@ -55,7 +55,7 @@ namespace CRM.Controllers
             {
                 if (novoClientePf == null)
                 {
-                    return BadRequest("Dados inválidos");
+                    return BadRequest("Dados invï¿½lidos");
                 }
                 else
                 {
@@ -78,7 +78,7 @@ namespace CRM.Controllers
                 var atualizado = _clienteService.AtualizarCliente(id, clientePfAtualizado);
                 if (!atualizado)
                 {
-                    return NotFound("Cliente não encontrado");
+                    return NotFound("Cliente nï¿½o encontrado");
                 }
                 else
                 {
@@ -99,7 +99,7 @@ namespace CRM.Controllers
                 var deletado = _clienteService.DeletarClientePf(id);
                 if (!deletado)
                 {
-                    return NotFound("Cliente não encontrado");
+                    return NotFound("Cliente nï¿½o encontrado");
                 }
                 else
                 {
