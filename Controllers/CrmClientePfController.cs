@@ -26,7 +26,7 @@ namespace CRM.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Erro interno: {ex.Message}");
+                return StatusCode(500, $"Não foi possivel obter a listagem de clientes PF: {ex.Message}");
             }
         }
 
@@ -44,7 +44,7 @@ namespace CRM.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Erro interno: {ex.Message}");
+                return StatusCode(500, $"Não foi possivel encontrar o cliente PF: {ex.Message}");
             }
         }
 
@@ -55,7 +55,7 @@ namespace CRM.Controllers
             {
                 if (novoClientePf == null)
                 {
-                    return BadRequest("Dados inv�lidos");
+                    return BadRequest("Dados invalidos");
                 }
                 else
                 {
@@ -65,7 +65,7 @@ namespace CRM.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Erro interno: {ex.Message}");
+                return StatusCode(500, $"Não foi possivel criar o novo cliente PJ: {ex.Message}");
             }
             
         }
@@ -87,7 +87,7 @@ namespace CRM.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Erro interno: {ex.Message}");
+                return StatusCode(500, $"Não foi possivel atualizar o cliente PF: {ex.Message}");
             }
         }
 
@@ -108,7 +108,7 @@ namespace CRM.Controllers
             }
             catch (Exception ex)
             {
-                return StatusCode(500, $"Erro interno: {ex.Message}");
+                return StatusCode(500, $"Não foi possivel deletar o cliente PF: {ex.Message}");
             }
         }
 

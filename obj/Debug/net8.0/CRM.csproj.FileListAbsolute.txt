@@ -431,3 +431,4 @@ C:\ProjetoCRM\CRM\obj\Debug\net8.0\refint\CRM.dll
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.pdb
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\CRM.genruntimeconfig.cache
 C:\ProjetoCRM\CRM\obj\Debug\net8.0\ref\CRM.dll
+C:\ProjetoCRM\CRM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

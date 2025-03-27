@@ -49,6 +49,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<TokenService>();
 builder.Services.AddScoped<ClientePfService>();
+builder.Services.AddScoped<ClientePJService>();
 
 var app = builder.Build();
 
